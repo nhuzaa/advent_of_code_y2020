@@ -5,6 +5,6 @@ Yearly coding puzzle [INFO HERE](https://adventofcode.com/)
 I mostly code on python
 
 # Some Better codes
-[LINK] (https://github.com/search?q=advent+of+code)
+[Git Search](https://github.com/search?q=advent+of+code)
 
 
