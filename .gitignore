@@ -1,0 +1,8 @@
+#Mac
+.DS_Store
+
+# VIM
+*.swp
+
+# Python
+__pycache__/
