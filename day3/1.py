@@ -1,8 +1,13 @@
+'''
+Toboggan Trajectory
+Part 1
+'''
 def main():
-    f = open("input", "r")
-    data = f.read()
-    pass_list = [x for x in data.splitlines()]
+    with open("input", "r") as f:
+        data = f.read()
+        pass_list = [x for x in data.splitlines()]
     print(pass_list)
+
 
     width_of_trees = len(pass_list[0])
     no_of_lanes = len(pass_list)
