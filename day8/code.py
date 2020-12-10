@@ -35,11 +35,8 @@ def follow_ins(ins_list: dict, acum: int, pos: int):
         pass
     return acum , pos
 
-
 def part1(ins_list: dict) -> int:
-    visited = []
-    acum = 0
-    pos = 0
+    visited, acum, pos = [] , 0 , 0
     while True:
         if pos in visited:
             break
